@@ -50,8 +50,8 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name:I.Deva Dharshini
+### Register Number:212223240026
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
